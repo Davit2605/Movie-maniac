@@ -8,14 +8,14 @@ const Header = () => {
       <div className="header-links">
         <ul className="align-items">
           <li>
-            <a href="popular">Popular 🔥</a>
+            <a>Popular 🔥</a>
           </li>
           <li>
             {" "}
-            <a href="top-rated">Top-Rated ⭐</a>
+            <a>Top-Rated ⭐</a>
           </li>
           <li>
-            <a href="top-rated">Upcoming 🥳</a>
+            <a>Upcoming 🥳</a>
           </li>
         </ul>
       </div>
