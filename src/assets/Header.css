@@ -6,19 +6,6 @@
   border-bottom: 1px solid #fff;
 }
 
-.header-links ul li {
-  list-style-type: none;
-  margin-left: 15px;
-}
-
-.header-links ul li a {
-  text-decoration: none;
-  color: #fff;
-  font-size: 18px;
-  font-weight: 500;
-  cursor: pointer;
-}
-
 .header {
   cursor: pointer;
   color: yellow;
